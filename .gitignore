@@ -1,0 +1,33 @@
+# Gradle and Kotlin
+.gradle/
+.kotlin/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.fleet/
+
+# Android
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# JVM crash and heap dumps
+hs_err_pid*.log
+*.hprof
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Your own runs of the checks land here
+jvm/results/
+android/device-results/

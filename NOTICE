@@ -1,0 +1,9 @@
+kotlin-flow-catch-trap
+
+This project includes code from the kotlinx.coroutines library
+(https://github.com/Kotlin/kotlinx.coroutines), changed as described at the top of
+jvm/src/main/kotlin/catchtrap/fixes/CatchAware.kt and
+jvm/src/main/kotlin/catchtrap/trace/TracedCatch.kt.
+
+kotlinx.coroutines library.
+Copyright 2016-2025 JetBrains s.r.o and contributors
